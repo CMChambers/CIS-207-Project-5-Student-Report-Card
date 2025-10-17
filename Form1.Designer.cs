@@ -90,7 +90,7 @@
             btnShowLetterGrade.Name = "btnShowLetterGrade";
             btnShowLetterGrade.Size = new Size(186, 48);
             btnShowLetterGrade.TabIndex = 3;
-            btnShowLetterGrade.Text = "Show Grade";
+            btnShowLetterGrade.Text = "Evaluate";
             btnShowLetterGrade.UseVisualStyleBackColor = true;
             btnShowLetterGrade.Click += btnShowLetterGrade_Click;
             // 
